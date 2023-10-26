@@ -4,12 +4,14 @@ Assignment 1:
 - Upload the Flask App code and templates to the EC2 instance and configure it to run the app(Configured in User Data so that it runs at start).
 
 EC2 Instance Tags:
-owner: yuvaraj.janartha@tigeranalytics.com
-project: aws-training
-name: yuvaraj-ec2-mlops-training
+
+- owner: yuvaraj.janartha@tigeranalytics.com
+- project: aws-training
+- name: yuvaraj-ec2-mlops-training
 
 Flask App:
-Link: http://http://3.91.242.51:8085/get-files (Will change as Public IP is not dedicated)
+
+Link: http:////3.91.242.51:8085/get-files (Will change as Public IP is not dedicated)
 
 Page to specify the folder
 
