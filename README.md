@@ -12,10 +12,12 @@ Flask App:
 Link: http://http://3.91.242.51:8085/get-files (Will change as Public IP is not dedicated)
 
 Page to specify the folder
+
 ![image](https://github.com/yuvarajjanarthanan/aws-mlops-assignments/assets/94606324/0ea64e66-ec5f-4f7d-9c75-26948af36c20)
 
 
 Page where files are listed
+
 ![image](https://github.com/yuvarajjanarthanan/aws-mlops-assignments/assets/94606324/02a8f392-5320-4e0d-99d8-695f6dd2665b)
 
 Unable to configure Security Group to allow incoming traffic only through port 8085 as it is blocked at Organizational Level.
